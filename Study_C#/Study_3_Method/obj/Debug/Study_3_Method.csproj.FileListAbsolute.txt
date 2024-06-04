@@ -1,0 +1,10 @@
+C:\Users\COM_B\source\repos\Study_C#\Study_3_Method\bin\Debug\Study_3_Method.exe.config
+C:\Users\COM_B\source\repos\Study_C#\Study_3_Method\bin\Debug\Study_3_Method.exe
+C:\Users\COM_B\source\repos\Study_C#\Study_3_Method\bin\Debug\Study_3_Method.pdb
+C:\Users\COM_B\source\repos\Study_C#\Study_3_Method\obj\Debug\Study_3_Method.csproj.AssemblyReference.cache
+C:\Users\COM_B\source\repos\Study_C#\Study_3_Method\obj\Debug\Study_3_Method.Form1.resources
+C:\Users\COM_B\source\repos\Study_C#\Study_3_Method\obj\Debug\Study_3_Method.Properties.Resources.resources
+C:\Users\COM_B\source\repos\Study_C#\Study_3_Method\obj\Debug\Study_3_Method.csproj.GenerateResource.cache
+C:\Users\COM_B\source\repos\Study_C#\Study_3_Method\obj\Debug\Study_3_Method.csproj.CoreCompileInputs.cache
+C:\Users\COM_B\source\repos\Study_C#\Study_3_Method\obj\Debug\Study_3_Method.exe
+C:\Users\COM_B\source\repos\Study_C#\Study_3_Method\obj\Debug\Study_3_Method.pdb
